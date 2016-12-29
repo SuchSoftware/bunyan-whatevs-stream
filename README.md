@@ -31,7 +31,7 @@ Fun, right?
 
 1. Why would I wrap the function it in a Promise?
 
-Because your whatevs may not be ready to right when you set up the logger. Perhaps your function calls some system you haven't connected to yet.  That's fine.  Give it a Promise that resolves to your whatevs.
+Because your whatevs may not be ready to go right when you set up the logger. Perhaps your function calls some system you haven't connected to yet.  That's fine.  Give it a Promise that resolves to your whatevs.
 
 ## License
 
